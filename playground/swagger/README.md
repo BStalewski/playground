@@ -1,0 +1,1 @@
+Example: `curl -X POST http://localhost:6543/dogs --data-binary '{"age": 714, "id": 102, "name": "dog-102"}'`
